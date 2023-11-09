@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="61" viewBox="0 0 393 61">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #ecffd4;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #bad09d;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1.938" y="29.438" width="175.781" height="59.25" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ecffd4"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x="0.063" width="392.125" height="90.313"/>
+  <ellipse class="cls-2" cx="266.86" cy="39.484" rx="213.328" ry="30.422"/>
+  <path class="cls-3" d="M85.675,74.035c48.441-9.309,85.12-27.753,81.926-41.2s-45.052-16.795-93.492-7.486S-11.011,53.106-7.817,66.55,37.234,83.344,85.675,74.035Z"/>
+  <ellipse class="cls-1" cx="269.797" cy="48.859" rx="213.328" ry="30.422"/>
+  <path class="cls-4" d="M95.621,83.409c48.441-9.309,85.12-27.753,81.926-41.2S132.5,25.417,84.055,34.726-1.064,62.48,2.13,75.923,47.181,92.718,95.621,83.409Z"/>
+  <ellipse class="cls-2" cx="272.672" cy="71.188" rx="213.328" ry="30.438"/>
+  <path class="cls-3" d="M91.491,105.726c48.44-9.309,85.119-27.753,81.925-41.2s-45.052-16.795-93.492-7.486S-5.2,84.8-2,98.241,43.051,115.035,91.491,105.726Z"/>
+</svg>
